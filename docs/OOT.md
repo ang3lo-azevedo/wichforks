@@ -60,9 +60,7 @@ You can use an automated tool (recommended) or download and extract manually:
    *(On Linux: `~/.local/share/eden/cache/shader/0400486024dec000/`)*
    *(Alternatively, in Lichii: right-click the game $\rightarrow$ **Open Transferable Pipeline Cache**).*
 3. Back up any existing files, then clear the folder contents.
-4. Download the community shader archive:
-   - [Community 76K Shaders v54 (Mediafire)](https://www.mediafire.com/file/1lqqh8k06vj3pc1/0400486024dec000_v54_76K_Shaders.7z/file)
-   - Reference: [Reddit guide: How to install OoT Remake shadercache files](https://www.reddit.com/r/SwitchPirates2/comments/1xpm39k/how_to_install_oot_remake_shadercache_files_for/)
+4. Download the community shader archive referenced in the [Reddit guide: How to install OoT Remake shadercache files](https://www.reddit.com/r/SwitchPirates2/comments/1xpm39k/how_to_install_oot_remake_shadercache_files_for/) (or use Option A above to pull validated packs directly from GitHub releases).
 5. Extract the `.7z` contents directly into `0400486024dec000/`.
 
 > [!NOTE]
@@ -140,5 +138,4 @@ You can use an automated tool (recommended) or download and extract manually:
 - [Fritchii Releases](https://github.com/Frizti/Fritchii/releases) (v4.1 visual, water and lighting fixes, formerly Frizti/Lichii)
 - [Lichii Shader Sync](https://github.com/oceanpacificpeace/lichii-shader-sync) (Automated shader cache downloader & manager)
 - [Reddit Shader Cache Guide](https://www.reddit.com/r/SwitchPirates2/comments/1xpm39k/how_to_install_oot_remake_shadercache_files_for/)
-- [Community 76K Shader Cache](https://www.mediafire.com/file/1lqqh8k06vj3pc1/0400486024dec000_v54_76K_Shaders.7z/file)
 - [Lichii Reports dataset](LICHII-REPORTS.md)
